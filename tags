@@ -1,0 +1,504 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+0.py	D:\smart-home\voice\0.py	1;"	kind:file	line:1
+1.py	D:\smart-home\voice\1.py	1;"	kind:file	line:1
+2.py	D:\smart-home\voice\2.py	1;"	kind:file	line:1
+APIError	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\utils.py	/^from voicetools import BaseClient, APIError$/;"	kind:namespace	line:15
+APIError	D:\smart-home\voice\voicetools-master\voicetools-master\voicetools\api.py	/^from .exceptions import APIError$/;"	kind:namespace	line:3
+APIError	D:\smart-home\voice\voicetools-master\voicetools-master\voicetools\clients.py	/^from .exceptions import RespError, APIError, VerifyError$/;"	kind:namespace	line:5
+APIError	D:\smart-home\voice\voicetools-master\voicetools-master\voicetools\constants.py	/^from .exceptions import RecognitionError, VerifyError, QuotaError, APIError$/;"	kind:namespace	line:2
+APIError	D:\smart-home\voice\voicetools-master\voicetools-master\voicetools\exceptions.py	/^class APIError(RequestException):$/;"	kind:class	line:9
+API_KEY	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\settings.py	/^    API_KEY = 'YOUR_BAIDU_API_KEY'$/;"	kind:variable	line:61
+ActionHandler	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\handler.py	/^class ActionHandler(object):$/;"	kind:class	line:100
+ActionHandler	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\test.py	/^from raspi_assistant.handler import BaseHandler, ActionHandler$/;"	kind:namespace	line:11
+AudioData	D:\smart-home\voice\2.py	/^class AudioData(object):$/;"	kind:class	line:127
+AudioData	D:\smart-home\voice\PyBaiduYuyin-master\PyBaiduYuyin-master\PyBaiduYuyin\__init__.py	/^class AudioData(object):$/;"	kind:class	line:126
+AudioData	D:\smart-home\voice\pybaidu.py	/^class AudioData(object):$/;"	kind:class	line:128
+AudioHandler	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\utils.py	/^class AudioHandler(object):$/;"	kind:class	line:111
+AudioSource	D:\smart-home\voice\2.py	/^class AudioSource(object):$/;"	kind:class	line:35
+AudioSource	D:\smart-home\voice\PyBaiduYuyin-master\PyBaiduYuyin-master\PyBaiduYuyin\__init__.py	/^class AudioSource(object):$/;"	kind:class	line:34
+AudioSource	D:\smart-home\voice\pybaidu.py	/^class AudioSource(object):$/;"	kind:class	line:36
+BAC	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\handler.py	/^from .settings import BasicConfig as BC, BaiduAPIConfig as BAC$/;"	kind:namespace	line:10
+BC	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\handler.py	/^from .settings import BasicConfig as BC, BaiduAPIConfig as BAC$/;"	kind:namespace	line:10
+BaiduAPIClient	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\utils.py	/^class BaiduAPIClient(BaseClient):$/;"	kind:class	line:76
+BaiduAPIConfig	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\settings.py	/^class BaiduAPIConfig(object):$/;"	kind:class	line:59
+BaiduClient	D:\smart-home\voice\voicetools-master\voicetools-master\voicetools\clients.py	/^class BaiduClient(BaseClient):$/;"	kind:class	line:54
+BaiduUrl	D:\smart-home\voice\voicetools-master\voicetools-master\voicetools\clients.py	/^from .constants import BaiduUrl, TuringUrl, ErrNo$/;"	kind:namespace	line:4
+BaiduUrl	D:\smart-home\voice\voicetools-master\voicetools-master\voicetools\constants.py	/^class BaiduUrl(object):$/;"	kind:class	line:5
+BaiduVoice	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\handler.py	/^from voicetools import BaiduVoice, TuringRobot$/;"	kind:namespace	line:8
+BaiduVoice	D:\smart-home\voice\voicetools-master\voicetools-master\tests\test_GPIO.py	/^from raspi_assistant import BaiduVoice, TuringRobot, Wolfram$/;"	kind:namespace	line:10
+BaiduVoice	D:\smart-home\voice\voicetools-master\voicetools-master\voicetools\__init__.py	/^from .api import Wolfram, TuringRobot, BaiduVoice$/;"	kind:namespace	line:13
+BaiduVoice	D:\smart-home\voice\voicetools-master\voicetools-master\voicetools\api.py	/^class BaiduVoice(object):$/;"	kind:class	line:55
+BaseClient	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\utils.py	/^from voicetools import BaseClient, APIError$/;"	kind:namespace	line:15
+BaseClient	D:\smart-home\voice\voicetools-master\voicetools-master\voicetools\__init__.py	/^from .clients import BaseClient$/;"	kind:namespace	line:14
+BaseClient	D:\smart-home\voice\voicetools-master\voicetools-master\voicetools\clients.py	/^class BaseClient(object):$/;"	kind:class	line:9
+BaseHandler	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\assistant.py	/^from raspi_assistant.handler import BaseHandler$/;"	kind:namespace	line:13
+BaseHandler	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\handler.py	/^class BaseHandler(object):$/;"	kind:class	line:39
+BaseHandler	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\test.py	/^from raspi_assistant.handler import BaseHandler, ActionHandler$/;"	kind:namespace	line:11
+BasicConfig	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\settings.py	/^class BasicConfig(object):$/;"	kind:class	line:19
+BytesIO	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\test.py	/^from io import BytesIO$/;"	kind:namespace	line:6
+CacheHandler	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\utils.py	/^class CacheHandler(object):$/;"	kind:class	line:201
+DB	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\settings.py	/^    DB = 0$/;"	kind:variable	line:15
+DEFAULT_APP_KEY	D:\smart-home\voice\2.py	/^DEFAULT_APP_KEY = "o1A14nQdfrgKuRMMXGfDhlZy"$/;"	kind:variable	line:20
+DEFAULT_APP_KEY	D:\smart-home\voice\PyBaiduYuyin-master\PyBaiduYuyin-master\PyBaiduYuyin\__init__.py	/^DEFAULT_APP_KEY = "BElGG5nsGL8oevAa3gMzMk4Y"$/;"	kind:variable	line:22
+DEFAULT_APP_KEY	D:\smart-home\voice\pybaidu.py	/^DEFAULT_APP_KEY = "o1A14nQdfrgKuRMMXGfDhlZy"$/;"	kind:variable	line:23
+DEFAULT_SECRET_KEY	D:\smart-home\voice\2.py	/^DEFAULT_SECRET_KEY = "cead88eb6c402ae2afc076b060839086"$/;"	kind:variable	line:21
+DEFAULT_SECRET_KEY	D:\smart-home\voice\PyBaiduYuyin-master\PyBaiduYuyin-master\PyBaiduYuyin\__init__.py	/^DEFAULT_SECRET_KEY = "uVla1FdpQ2HgmojeY9e6pobrS3lRGaeY"$/;"	kind:variable	line:23
+DEFAULT_SECRET_KEY	D:\smart-home\voice\pybaidu.py	/^DEFAULT_SECRET_KEY = "cead88eb6c402ae2afc076b060839086"$/;"	kind:variable	line:24
+ErrNo	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\settings.py	/^class ErrNo(object):$/;"	kind:class	line:70
+ErrNo	D:\smart-home\voice\voicetools-master\voicetools-master\voicetools\clients.py	/^from .constants import BaiduUrl, TuringUrl, ErrNo$/;"	kind:namespace	line:4
+ErrNo	D:\smart-home\voice\voicetools-master\voicetools-master\voicetools\constants.py	/^class ErrNo(object):$/;"	kind:class	line:18
+ExceptionMap	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\settings.py	/^    ExceptionMap = {$/;"	kind:variable	line:71
+FUNC_MAP	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\handler.py	/^FUNC_MAP = {$/;"	kind:variable	line:17
+GPIO	D:\smart-home\switch wifi\timeswitch.py	/^import RPi.GPIO as GPIO$/;"	kind:namespace	line:1
+GPIO	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\assistant.py	/^import RPi.GPIO as GPIO$/;"	kind:namespace	line:6
+GPIOConfig	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\assistant.py	/^from raspi_assistant.settings import GPIOConfig$/;"	kind:namespace	line:11
+GPIOConfig	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\settings.py	/^class GPIOConfig(object):$/;"	kind:class	line:48
+GetToken	D:\smart-home\voice\2.py	/^def GetToken(app_key, secret_key):$/;"	kind:function	line:23
+GetToken	D:\smart-home\voice\PyBaiduYuyin-master\PyBaiduYuyin-master\PyBaiduYuyin\__init__.py	/^def GetToken(app_key, secret_key):$/;"	kind:function	line:25
+GetToken	D:\smart-home\voice\pybaidu.py	/^def GetToken(app_key, secret_key):$/;"	kind:function	line:26
+HAPPINESS_THRESHOLD	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\settings.py	/^    HAPPINESS_THRESHOLD = 0.6$/;"	kind:variable	line:26
+HOME	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\assistant.py	/^HOME = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))$/;"	kind:variable	line:8
+HOME	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\test.py	/^HOME = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))$/;"	kind:variable	line:7
+HOME	D:\smart-home\voice\voicetools-master\voicetools-master\tests\test_GPIO.py	/^HOME = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))$/;"	kind:variable	line:6
+HOST_ADDR	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\settings.py	/^    HOST_ADDR = 'localhost'$/;"	kind:variable	line:13
+INPUT_NAME	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\settings.py	/^    INPUT_NAME = 'record.wav'$/;"	kind:variable	line:28
+KEYWORDS	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\settings.py	/^    KEYWORDS = {'提醒', '备忘录', '播放', '今天', '明天', '天气', '删除', '最后', '第一条'}$/;"	kind:variable	line:27
+Keyword	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\utils.py	/^class Keyword(object):$/;"	kind:class	line:190
+LOCATION	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\settings.py	/^    LOCATION = '成都'$/;"	kind:variable	line:22
+LOGGING_FORMAT	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\settings.py	/^    LOGGING_FORMAT = '%(asctime)s %(funcName)s:%(lineno)d [%(levelname)s] %(message)s'$/;"	kind:variable	line:54
+LOGGING_LEVEL	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\settings.py	/^    LOGGING_LEVEL = logging.DEBUG$/;"	kind:variable	line:56
+LOGGING_LOCATION	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\settings.py	/^    LOGGING_LOCATION = '.\/log\/raspi_assistant.log'$/;"	kind:variable	line:55
+LogConfig	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\settings.py	/^class LogConfig(object):$/;"	kind:class	line:53
+Microphone	D:\smart-home\voice\2.py	/^    class Microphone(AudioSource):$/;"	kind:class	line:47
+Microphone	D:\smart-home\voice\PyBaiduYuyin-master\PyBaiduYuyin-master\PyBaiduYuyin\__init__.py	/^    class Microphone(AudioSource):$/;"	kind:class	line:46
+Microphone	D:\smart-home\voice\pybaidu.py	/^    class Microphone(AudioSource):$/;"	kind:class	line:48
+NAME	D:\smart-home\voice\voicetools-master\voicetools-master\setup.py	/^NAME = 'voicetools'$/;"	kind:variable	line:6
+NEGATIVE_ANSWER	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\settings.py	/^    NEGATIVE_ANSWER = {$/;"	kind:variable	line:39
+NamedTemporaryFile	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\handler.py	/^from tempfile import NamedTemporaryFile$/;"	kind:namespace	line:5
+OUTPUT_NAME	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\settings.py	/^    OUTPUT_NAME = 'output.wav'$/;"	kind:variable	line:29
+PACKAGE	D:\smart-home\voice\voicetools-master\voicetools-master\setup.py	/^PACKAGE = "voicetools"$/;"	kind:variable	line:5
+PIPE	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\utils.py	/^from subprocess import Popen, PIPE$/;"	kind:namespace	line:9
+PORT	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\settings.py	/^    PORT = 6379$/;"	kind:variable	line:14
+POSITIVE_ANSWER	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\settings.py	/^    POSITIVE_ANSWER = {$/;"	kind:variable	line:30
+Popen	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\utils.py	/^from subprocess import Popen, PIPE$/;"	kind:namespace	line:9
+PyBaiduYuyin	D:\smart-home\voice\PyBaiduYuyin-master\PyBaiduYuyin-master\setup.py	/^import PyBaiduYuyin$/;"	kind:namespace	line:11
+QuotaError	D:\smart-home\voice\voicetools-master\voicetools-master\voicetools\constants.py	/^from .exceptions import RecognitionError, VerifyError, QuotaError, APIError$/;"	kind:namespace	line:2
+QuotaError	D:\smart-home\voice\voicetools-master\voicetools-master\voicetools\exceptions.py	/^class QuotaError(APIError):$/;"	kind:class	line:21
+RPi	D:\smart-home\switch wifi\timeswitch.py	/^import RPi.GPIO as GPIO$/;"	kind:namespace	line:1
+RPi	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\assistant.py	/^import RPi.GPIO as GPIO$/;"	kind:namespace	line:6
+RecognitionError	D:\smart-home\voice\voicetools-master\voicetools-master\voicetools\constants.py	/^from .exceptions import RecognitionError, VerifyError, QuotaError, APIError$/;"	kind:namespace	line:2
+RecognitionError	D:\smart-home\voice\voicetools-master\voicetools-master\voicetools\exceptions.py	/^class RecognitionError(APIError):$/;"	kind:class	line:13
+Recognizer	D:\smart-home\voice\2.py	/^class Recognizer(AudioSource):$/;"	kind:class	line:218
+Recognizer	D:\smart-home\voice\PyBaiduYuyin-master\PyBaiduYuyin-master\PyBaiduYuyin\__init__.py	/^class Recognizer(AudioSource):$/;"	kind:class	line:226
+Recognizer	D:\smart-home\voice\pybaidu.py	/^class Recognizer(AudioSource):$/;"	kind:class	line:233
+RedisConfig	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\settings.py	/^class RedisConfig(object):$/;"	kind:class	line:11
+Request	D:\smart-home\voice\PyBaiduYuyin-master\PyBaiduYuyin-master\PyBaiduYuyin\__init__.py	/^    from urllib.request import Request, urlopen$/;"	kind:namespace	line:18
+Request	D:\smart-home\voice\PyBaiduYuyin-master\PyBaiduYuyin-master\PyBaiduYuyin\__init__.py	/^    from urllib2 import Request, urlopen, URLError$/;"	kind:namespace	line:16
+Request	D:\smart-home\voice\pybaidu.py	/^    from urllib.request import Request, urlopen$/;"	kind:namespace	line:19
+Request	D:\smart-home\voice\pybaidu.py	/^    from urllib2 import Request, urlopen, URLError$/;"	kind:namespace	line:17
+RequestException	D:\smart-home\voice\voicetools-master\voicetools-master\voicetools\exceptions.py	/^from requests import RequestException$/;"	kind:namespace	line:2
+RespError	D:\smart-home\voice\voicetools-master\voicetools-master\voicetools\clients.py	/^from .exceptions import RespError, APIError, VerifyError$/;"	kind:namespace	line:5
+RespError	D:\smart-home\voice\voicetools-master\voicetools-master\voicetools\exceptions.py	/^class RespError(RequestException):$/;"	kind:class	line:5
+SOCKET_TIMEOUT	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\settings.py	/^    SOCKET_TIMEOUT = 1$/;"	kind:variable	line:16
+TODAY_WEATHER_TEXT	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\settings.py	/^    u'当前天气{cond}，体感温度{fl}摄氏度，空气湿度百分之{hum}。今日温度为{min}到{max}摄氏度，{txt_d}转{txt_n}，降水概率百分之{pop}，空气质量{qlty}。'$/;"	kind:variable	line:64
+TOMO_WEATHER_TEXT	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\settings.py	/^        u'明天的气温是{min}到{max}摄氏度，{txt_d}转{txt_n}，降水概率百分之{pop}。'$/;"	kind:variable	line:67
+TTS	D:\smart-home\voice\2.py	/^class TTS(object):$/;"	kind:class	line:132
+TTS	D:\smart-home\voice\PyBaiduYuyin-master\PyBaiduYuyin-master\PyBaiduYuyin\__init__.py	/^class TTS(object):$/;"	kind:class	line:131
+TTS	D:\smart-home\voice\pybaidu.py	/^class TTS(object):$/;"	kind:class	line:133
+TURING_KEY	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\settings.py	/^    TURING_KEY = 'f2e1b5a19120420680658d46f0bcd98e'$/;"	kind:variable	line:23
+TemporaryFile	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\test.py	/^from tempfile import TemporaryFile$/;"	kind:namespace	line:12
+TemporaryFile	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\utils.py	/^from tempfile import TemporaryFile$/;"	kind:namespace	line:10
+TimedRotatingFileHandler	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\utils.py	/^from logging.handlers import TimedRotatingFileHandler$/;"	kind:namespace	line:3
+TuringClient	D:\smart-home\voice\voicetools-master\voicetools-master\voicetools\clients.py	/^class TuringClient(BaseClient):$/;"	kind:class	line:113
+TuringRobot	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\handler.py	/^from voicetools import BaiduVoice, TuringRobot$/;"	kind:namespace	line:8
+TuringRobot	D:\smart-home\voice\voicetools-master\voicetools-master\tests\test_GPIO.py	/^from raspi_assistant import BaiduVoice, TuringRobot, Wolfram$/;"	kind:namespace	line:10
+TuringRobot	D:\smart-home\voice\voicetools-master\voicetools-master\voicetools\__init__.py	/^from .api import Wolfram, TuringRobot, BaiduVoice$/;"	kind:namespace	line:13
+TuringRobot	D:\smart-home\voice\voicetools-master\voicetools-master\voicetools\api.py	/^class TuringRobot(object):$/;"	kind:class	line:33
+TuringUrl	D:\smart-home\voice\voicetools-master\voicetools-master\voicetools\clients.py	/^from .constants import BaiduUrl, TuringUrl, ErrNo$/;"	kind:namespace	line:4
+TuringUrl	D:\smart-home\voice\voicetools-master\voicetools-master\voicetools\constants.py	/^class TuringUrl(object):$/;"	kind:class	line:13
+URLError	D:\smart-home\voice\2.py	/^from urllib.error import URLError$/;"	kind:namespace	line:17
+URLError	D:\smart-home\voice\PyBaiduYuyin-master\PyBaiduYuyin-master\PyBaiduYuyin\__init__.py	/^    from urllib.error import URLError$/;"	kind:namespace	line:19
+URLError	D:\smart-home\voice\PyBaiduYuyin-master\PyBaiduYuyin-master\PyBaiduYuyin\__init__.py	/^    from urllib2 import Request, urlopen, URLError$/;"	kind:namespace	line:16
+URLError	D:\smart-home\voice\pybaidu.py	/^    from urllib.error import URLError$/;"	kind:namespace	line:20
+URLError	D:\smart-home\voice\pybaidu.py	/^    from urllib2 import Request, urlopen, URLError$/;"	kind:namespace	line:17
+VERSION	D:\smart-home\voice\voicetools-master\voicetools-master\setup.py	/^    VERSION = re.search(r'^__version__\\s*=\\s*[\\'"]([^\\'"]*)[\\'"]',$/;"	kind:variable	line:9
+VOICE_API_KEY	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\settings.py	/^    VOICE_API_KEY = 'o1A14nQdfrgKuRMMXGfDhlZy'$/;"	kind:variable	line:24
+VOICE_SECRET	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\settings.py	/^    VOICE_SECRET = 'cead88eb6c402ae2afc076b060839086'$/;"	kind:variable	line:25
+VOICE_SENSOR	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\settings.py	/^    VOICE_SENSOR = 4$/;"	kind:variable	line:50
+VerifyError	D:\smart-home\voice\voicetools-master\voicetools-master\voicetools\clients.py	/^from .exceptions import RespError, APIError, VerifyError$/;"	kind:namespace	line:5
+VerifyError	D:\smart-home\voice\voicetools-master\voicetools-master\voicetools\constants.py	/^from .exceptions import RecognitionError, VerifyError, QuotaError, APIError$/;"	kind:namespace	line:2
+VerifyError	D:\smart-home\voice\voicetools-master\voicetools-master\voicetools\exceptions.py	/^class VerifyError(APIError):$/;"	kind:class	line:17
+WEATHER_URL	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\settings.py	/^    WEATHER_URL = 'http:\/\/apis.baidu.com\/heweather\/weather\/free'$/;"	kind:variable	line:62
+WavFile	D:\smart-home\voice\2.py	/^class WavFile(AudioSource):$/;"	kind:class	line:87
+WavFile	D:\smart-home\voice\PyBaiduYuyin-master\PyBaiduYuyin-master\PyBaiduYuyin\__init__.py	/^class WavFile(AudioSource):$/;"	kind:class	line:86
+WavFile	D:\smart-home\voice\pybaidu.py	/^class WavFile(AudioSource):$/;"	kind:class	line:88
+WavStream	D:\smart-home\voice\2.py	/^    class WavStream(object):$/;"	kind:class	line:118
+WavStream	D:\smart-home\voice\PyBaiduYuyin-master\PyBaiduYuyin-master\PyBaiduYuyin\__init__.py	/^    class WavStream(object):$/;"	kind:class	line:117
+WavStream	D:\smart-home\voice\pybaidu.py	/^    class WavStream(object):$/;"	kind:class	line:119
+Wolfram	D:\smart-home\voice\voicetools-master\voicetools-master\tests\test_GPIO.py	/^from raspi_assistant import BaiduVoice, TuringRobot, Wolfram$/;"	kind:namespace	line:10
+Wolfram	D:\smart-home\voice\voicetools-master\voicetools-master\voicetools\__init__.py	/^from .api import Wolfram, TuringRobot, BaiduVoice$/;"	kind:namespace	line:13
+Wolfram	D:\smart-home\voice\voicetools-master\voicetools-master\voicetools\api.py	/^class Wolfram(object):$/;"	kind:class	line:8
+_	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\utils.py	/^    def _(*args, **kwargs):$/;"	kind:function	line:59
+__author__	D:\smart-home\voice\2.py	/^__author__ = "Changxu Wang"$/;"	kind:variable	line:6
+__author__	D:\smart-home\voice\PyBaiduYuyin-master\PyBaiduYuyin-master\PyBaiduYuyin\__init__.py	/^__author__ = "Changxu Wang"$/;"	kind:variable	line:6
+__author__	D:\smart-home\voice\pybaidu.py	/^__author__ = "Changxu Wang"$/;"	kind:variable	line:6
+__author__	D:\smart-home\voice\voicetools-master\voicetools-master\voicetools\__init__.py	/^__author__ = 'namco1992'$/;"	kind:variable	line:10
+__enter__	D:\smart-home\voice\2.py	/^        def __enter__(self):$/;"	kind:member	line:70
+__enter__	D:\smart-home\voice\2.py	/^    def __enter__(self):$/;"	kind:member	line:103
+__enter__	D:\smart-home\voice\2.py	/^    def __enter__(self):$/;"	kind:member	line:39
+__enter__	D:\smart-home\voice\PyBaiduYuyin-master\PyBaiduYuyin-master\PyBaiduYuyin\__init__.py	/^        def __enter__(self):$/;"	kind:member	line:69
+__enter__	D:\smart-home\voice\PyBaiduYuyin-master\PyBaiduYuyin-master\PyBaiduYuyin\__init__.py	/^    def __enter__(self):$/;"	kind:member	line:102
+__enter__	D:\smart-home\voice\PyBaiduYuyin-master\PyBaiduYuyin-master\PyBaiduYuyin\__init__.py	/^    def __enter__(self):$/;"	kind:member	line:38
+__enter__	D:\smart-home\voice\pybaidu.py	/^        def __enter__(self):$/;"	kind:member	line:71
+__enter__	D:\smart-home\voice\pybaidu.py	/^    def __enter__(self):$/;"	kind:member	line:104
+__enter__	D:\smart-home\voice\pybaidu.py	/^    def __enter__(self):$/;"	kind:member	line:40
+__exit__	D:\smart-home\voice\2.py	/^        def __exit__(self, exc_type, exc_value, traceback):$/;"	kind:member	line:79
+__exit__	D:\smart-home\voice\2.py	/^    def __exit__(self, exc_type, exc_value, traceback):$/;"	kind:member	line:114
+__exit__	D:\smart-home\voice\2.py	/^    def __exit__(self, exc_type, exc_value, traceback):$/;"	kind:member	line:42
+__exit__	D:\smart-home\voice\PyBaiduYuyin-master\PyBaiduYuyin-master\PyBaiduYuyin\__init__.py	/^        def __exit__(self, exc_type, exc_value, traceback):$/;"	kind:member	line:78
+__exit__	D:\smart-home\voice\PyBaiduYuyin-master\PyBaiduYuyin-master\PyBaiduYuyin\__init__.py	/^    def __exit__(self, exc_type, exc_value, traceback):$/;"	kind:member	line:113
+__exit__	D:\smart-home\voice\PyBaiduYuyin-master\PyBaiduYuyin-master\PyBaiduYuyin\__init__.py	/^    def __exit__(self, exc_type, exc_value, traceback):$/;"	kind:member	line:41
+__exit__	D:\smart-home\voice\pybaidu.py	/^        def __exit__(self, exc_type, exc_value, traceback):$/;"	kind:member	line:80
+__exit__	D:\smart-home\voice\pybaidu.py	/^    def __exit__(self, exc_type, exc_value, traceback):$/;"	kind:member	line:115
+__exit__	D:\smart-home\voice\pybaidu.py	/^    def __exit__(self, exc_type, exc_value, traceback):$/;"	kind:member	line:43
+__init__	D:\smart-home\voice\2.py	/^        def __init__(self, device_index = None):$/;"	kind:member	line:55
+__init__	D:\smart-home\voice\2.py	/^        def __init__(self, wav_reader):$/;"	kind:member	line:119
+__init__	D:\smart-home\voice\2.py	/^    def __init__(self):$/;"	kind:member	line:36
+__init__	D:\smart-home\voice\2.py	/^    def __init__(self, filename_or_fileobject):$/;"	kind:member	line:94
+__init__	D:\smart-home\voice\2.py	/^    def __init__(self, language = "zh", app_key = DEFAULT_APP_KEY, secret_key = DEFAULT_SECRET_KEY):$/;"	kind:member	line:133
+__init__	D:\smart-home\voice\2.py	/^    def __init__(self, language = "zh", app_key = DEFAULT_APP_KEY, secret_key = DEFAULT_SECRET_KEY):$/;"	kind:member	line:219
+__init__	D:\smart-home\voice\2.py	/^    def __init__(self, rate, data):$/;"	kind:member	line:128
+__init__	D:\smart-home\voice\PyBaiduYuyin-master\PyBaiduYuyin-master\PyBaiduYuyin\__init__.py	/^        def __init__(self, device_index = None):$/;"	kind:member	line:54
+__init__	D:\smart-home\voice\PyBaiduYuyin-master\PyBaiduYuyin-master\PyBaiduYuyin\__init__.py	/^        def __init__(self, wav_reader):$/;"	kind:member	line:118
+__init__	D:\smart-home\voice\PyBaiduYuyin-master\PyBaiduYuyin-master\PyBaiduYuyin\__init__.py	/^    def __init__(self):$/;"	kind:member	line:35
+__init__	D:\smart-home\voice\PyBaiduYuyin-master\PyBaiduYuyin-master\PyBaiduYuyin\__init__.py	/^    def __init__(self, filename_or_fileobject):$/;"	kind:member	line:93
+__init__	D:\smart-home\voice\PyBaiduYuyin-master\PyBaiduYuyin-master\PyBaiduYuyin\__init__.py	/^    def __init__(self, language = "zh", app_key = DEFAULT_APP_KEY, secret_key = DEFAULT_SECRET_KEY):$/;"	kind:member	line:132
+__init__	D:\smart-home\voice\PyBaiduYuyin-master\PyBaiduYuyin-master\PyBaiduYuyin\__init__.py	/^    def __init__(self, language = "zh", app_key = DEFAULT_APP_KEY, secret_key = DEFAULT_SECRET_KEY):$/;"	kind:member	line:227
+__init__	D:\smart-home\voice\PyBaiduYuyin-master\PyBaiduYuyin-master\PyBaiduYuyin\__init__.py	/^    def __init__(self, rate, data):$/;"	kind:member	line:127
+__init__	D:\smart-home\voice\pybaidu.py	/^        def __init__(self, device_index = None):$/;"	kind:member	line:56
+__init__	D:\smart-home\voice\pybaidu.py	/^        def __init__(self, wav_reader):$/;"	kind:member	line:120
+__init__	D:\smart-home\voice\pybaidu.py	/^    def __init__(self):$/;"	kind:member	line:37
+__init__	D:\smart-home\voice\pybaidu.py	/^    def __init__(self, filename_or_fileobject):$/;"	kind:member	line:95
+__init__	D:\smart-home\voice\pybaidu.py	/^    def __init__(self, language = "zh", app_key = DEFAULT_APP_KEY, secret_key = DEFAULT_SECRET_KEY):$/;"	kind:member	line:134
+__init__	D:\smart-home\voice\pybaidu.py	/^    def __init__(self, language = "zh", app_key = DEFAULT_APP_KEY, secret_key = DEFAULT_SECRET_KEY):$/;"	kind:member	line:234
+__init__	D:\smart-home\voice\pybaidu.py	/^    def __init__(self, rate, data):$/;"	kind:member	line:129
+__init__	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\handler.py	/^    def __init__(self, baidu_token=None):$/;"	kind:member	line:41
+__init__	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\utils.py	/^    def __init__(self):$/;"	kind:member	line:203
+__init__	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\utils.py	/^    def __init__(self, **kwargs):$/;"	kind:member	line:78
+__init__	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\utils.py	/^    def __init__(self, chunk=1024, format_=pyaudio.paInt16, channels=1, rate=16000):$/;"	kind:member	line:113
+__init__	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\utils.py	/^    def __init__(self, list_):$/;"	kind:member	line:192
+__init__	D:\smart-home\voice\voicetools-master\voicetools-master\voicetools\api.py	/^    def __init__(self, key):$/;"	kind:member	line:14
+__init__	D:\smart-home\voice\voicetools-master\voicetools-master\voicetools\api.py	/^    def __init__(self, key):$/;"	kind:member	line:39
+__init__	D:\smart-home\voice\voicetools-master\voicetools-master\voicetools\api.py	/^    def __init__(self, token):$/;"	kind:member	line:62
+__init__	D:\smart-home\voice\voicetools-master\voicetools-master\voicetools\clients.py	/^    def __init__(self, **kwargs):$/;"	kind:member	line:115
+__init__	D:\smart-home\voice\voicetools-master\voicetools-master\voicetools\clients.py	/^    def __init__(self, **kwargs):$/;"	kind:member	line:12
+__init__	D:\smart-home\voice\voicetools-master\voicetools-master\voicetools\clients.py	/^    def __init__(self, **kwargs):$/;"	kind:member	line:56
+__init__.py	D:\smart-home\voice\PyBaiduYuyin-master\PyBaiduYuyin-master\PyBaiduYuyin\__init__.py	1;"	kind:file	line:1
+__init__.py	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\__init__.py	1;"	kind:file	line:1
+__init__.py	D:\smart-home\voice\voicetools-master\voicetools-master\voicetools\__init__.py	1;"	kind:file	line:1
+__license__	D:\smart-home\voice\2.py	/^__license__ = "BSD"$/;"	kind:variable	line:8
+__license__	D:\smart-home\voice\PyBaiduYuyin-master\PyBaiduYuyin-master\PyBaiduYuyin\__init__.py	/^__license__ = "BSD"$/;"	kind:variable	line:8
+__license__	D:\smart-home\voice\pybaidu.py	/^__license__ = "BSD"$/;"	kind:variable	line:8
+__license__	D:\smart-home\voice\voicetools-master\voicetools-master\voicetools\__init__.py	/^__license__ = 'Apache 2.0'$/;"	kind:variable	line:11
+__repr__	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\handler.py	/^    def __repr__(self):$/;"	kind:member	line:54
+__repr__	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\utils.py	/^    def __repr__(self):$/;"	kind:member	line:197
+__title__	D:\smart-home\voice\voicetools-master\voicetools-master\voicetools\__init__.py	/^__title__ = 'voicetools'$/;"	kind:variable	line:8
+__version__	D:\smart-home\voice\2.py	/^__version__ = "0.1.1"$/;"	kind:variable	line:7
+__version__	D:\smart-home\voice\PyBaiduYuyin-master\PyBaiduYuyin-master\PyBaiduYuyin\__init__.py	/^__version__ = "0.1.1"$/;"	kind:variable	line:7
+__version__	D:\smart-home\voice\pybaidu.py	/^__version__ = "0.1.1"$/;"	kind:variable	line:7
+__version__	D:\smart-home\voice\voicetools-master\voicetools-master\voicetools\__init__.py	/^__version__ = '0.0.1'$/;"	kind:variable	line:9
+_memo	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\handler.py	/^    def _memo(date, base_handler):$/;"	kind:member	line:116
+access_token	D:\smart-home\voice\0.py	/^access_token = baidu_oauth.get_baidu_access_token(baidu_oauth_url, client_id, client_secret)$/;"	kind:variable	line:14
+adjust_for_ambient_noise	D:\smart-home\voice\2.py	/^    def adjust_for_ambient_noise(self, source, duration = 1):$/;"	kind:member	line:314
+adjust_for_ambient_noise	D:\smart-home\voice\PyBaiduYuyin-master\PyBaiduYuyin-master\PyBaiduYuyin\__init__.py	/^    def adjust_for_ambient_noise(self, source, duration = 1):$/;"	kind:member	line:319
+adjust_for_ambient_noise	D:\smart-home\voice\pybaidu.py	/^    def adjust_for_ambient_noise(self, source, duration = 1):$/;"	kind:member	line:326
+api.py	D:\smart-home\voice\voicetools-master\voicetools-master\voicetools\api.py	1;"	kind:file	line:1
+aplay	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\utils.py	/^    def aplay(self, file_=BC.OUTPUT_NAME, is_buffer=False):$/;"	kind:member	line:159
+arecord	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\utils.py	/^    def arecord(self, record_seconds, is_buffer=False, file_=BC.INPUT_NAME):$/;"	kind:member	line:146
+ask_turing	D:\smart-home\voice\voicetools-master\voicetools-master\voicetools\api.py	/^    def ask_turing(self, question):$/;"	kind:member	line:42
+ask_wolfram	D:\smart-home\voice\voicetools-master\voicetools-master\voicetools\api.py	/^    def ask_wolfram(self, question):$/;"	kind:member	line:17
+asr	D:\smart-home\voice\voicetools-master\voicetools-master\voicetools\api.py	/^    def asr(self, file_, format_='wav',$/;"	kind:member	line:66
+asr	D:\smart-home\voice\voicetools-master\voicetools-master\voicetools\clients.py	/^    def asr(self, speech, params):$/;"	kind:member	line:85
+asr_err_no	D:\smart-home\voice\voicetools-master\voicetools-master\voicetools\constants.py	/^    asr_err_no = {$/;"	kind:variable	line:25
+asr_server	D:\smart-home\voice\0.py	/^asr_server = 'http:\/\/vop.baidu.com\/server_api'$/;"	kind:variable	line:10
+asr_url	D:\smart-home\voice\voicetools-master\voicetools-master\voicetools\constants.py	/^    asr_url = 'http:\/\/vop.baidu.com\/server_api'$/;"	kind:variable	line:8
+assistant.py	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\assistant.py	1;"	kind:file	line:1
+audio	D:\smart-home\voice\2.py	/^            audio = r.listen(source)$/;"	kind:variable	line:484
+audio	D:\smart-home\voice\PyBaiduYuyin-master\PyBaiduYuyin-master\PyBaiduYuyin\__init__.py	/^            audio = r.listen(source)$/;"	kind:variable	line:488
+audioop	D:\smart-home\voice\2.py	/^import math, audioop, collections$/;"	kind:namespace	line:11
+audioop	D:\smart-home\voice\PyBaiduYuyin-master\PyBaiduYuyin-master\PyBaiduYuyin\__init__.py	/^import math, audioop, collections$/;"	kind:namespace	line:11
+audioop	D:\smart-home\voice\pybaidu.py	/^import math, audioop, collections$/;"	kind:namespace	line:11
+author	D:\smart-home\voice\PyBaiduYuyin-master\PyBaiduYuyin-master\setup.py	/^    author=PyBaiduYuyin.__author__,$/;"	kind:variable	line:20
+author	D:\smart-home\voice\voicetools-master\voicetools-master\setup.py	/^      author='namco1992',$/;"	kind:variable	line:31
+author_email	D:\smart-home\voice\PyBaiduYuyin-master\PyBaiduYuyin-master\setup.py	/^    author_email="Changxu.mail@gmail.com",$/;"	kind:variable	line:21
+author_email	D:\smart-home\voice\voicetools-master\voicetools-master\setup.py	/^      author_email='namco1992@gmail.com',$/;"	kind:variable	line:32
+baidu_asr	D:\smart-home\voice\0.py	/^def baidu_asr(speech_file):$/;"	kind:function	line:17
+baidu_oauth	D:\smart-home\voice\0.py	/^import baidu_oauth$/;"	kind:namespace	line:3
+baidu_oauth_url	D:\smart-home\voice\0.py	/^baidu_oauth_url = 'https:\/\/openapi.baidu.com\/oauth\/2.0\/token\/'$/;"	kind:variable	line:11
+baidu_pedia	D:\smart-home\voice\voicetools-master\voicetools-master\voicetools\clients.py	/^    def baidu_pedia(self, params):$/;"	kind:member	line:103
+baiduclient	D:\smart-home\voice\voicetools-master\voicetools-master\voicetools\api.py	/^from .clients import turingclient, baiduclient$/;"	kind:namespace	line:4
+baiduclient	D:\smart-home\voice\voicetools-master\voicetools-master\voicetools\clients.py	/^baiduclient = BaiduClient()$/;"	kind:variable	line:110
+baike_url	D:\smart-home\voice\voicetools-master\voicetools-master\voicetools\constants.py	/^    baike_url = 'http:\/\/baike.baidu.com\/search\/word'$/;"	kind:variable	line:9
+base64	D:\smart-home\voice\0.py	/^import base64$/;"	kind:namespace	line:5
+base64	D:\smart-home\voice\1.py	/^import base64  $/;"	kind:namespace	line:5
+base64	D:\smart-home\voice\2.py	/^        import base64$/;"	kind:namespace	line:413
+base64	D:\smart-home\voice\PyBaiduYuyin-master\PyBaiduYuyin-master\PyBaiduYuyin\__init__.py	/^        import base64$/;"	kind:namespace	line:418
+base64	D:\smart-home\voice\pybaidu.py	/^        import base64$/;"	kind:namespace	line:425
+base64	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\utils.py	/^import base64$/;"	kind:namespace	line:6
+bv	D:\smart-home\voice\voicetools-master\voicetools-master\tests\test_GPIO.py	/^bv = BaiduVoice('24.c732785d895d118884937d4d2321d51e.2592000.1471771233.282335-8403190')$/;"	kind:variable	line:11
+cache	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\utils.py	/^def cache(func):$/;"	kind:function	line:56
+classifiers	D:\smart-home\voice\voicetools-master\voicetools-master\setup.py	/^      classifiers=($/;"	kind:variable	line:19
+client_id	D:\smart-home\voice\0.py	/^client_id = '8784924'$/;"	kind:variable	line:12
+client_secret	D:\smart-home\voice\0.py	/^client_secret = 'cead88eb6c402ae2afc076b060839086'$/;"	kind:variable	line:13
+clients.py	D:\smart-home\voice\voicetools-master\voicetools-master\voicetools\clients.py	1;"	kind:file	line:1
+collections	D:\smart-home\voice\2.py	/^import math, audioop, collections$/;"	kind:namespace	line:11
+collections	D:\smart-home\voice\PyBaiduYuyin-master\PyBaiduYuyin-master\PyBaiduYuyin\__init__.py	/^import math, audioop, collections$/;"	kind:namespace	line:11
+collections	D:\smart-home\voice\pybaidu.py	/^import math, audioop, collections$/;"	kind:namespace	line:11
+concat_url	D:\smart-home\voice\voicetools-master\voicetools-master\voicetools\clients.py	/^from .utils import concat_url$/;"	kind:namespace	line:6
+concat_url	D:\smart-home\voice\voicetools-master\voicetools-master\voicetools\utils.py	/^def concat_url(url, params):$/;"	kind:function	line:26
+conn_pool	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\utils.py	/^conn_pool = redis.ConnectionPool(host=RC.HOST_ADDR, port=RC.PORT, db=RC.DB)$/;"	kind:variable	line:21
+constants.py	D:\smart-home\voice\voicetools-master\voicetools-master\voicetools\constants.py	1;"	kind:file	line:1
+convert_to_wav	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\utils.py	/^def convert_to_wav(file_):$/;"	kind:function	line:24
+datetime	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\handler.py	/^import datetime$/;"	kind:namespace	line:4
+default	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\handler.py	/^    def default(base_handler, result):$/;"	kind:member	line:104
+del_all_memo	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\handler.py	/^    def del_all_memo(base_handler, result):$/;"	kind:member	line:186
+del_first_memo	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\handler.py	/^    def del_first_memo(base_handler, result):$/;"	kind:member	line:178
+del_last_memo	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\handler.py	/^    def del_last_memo(base_handler, result):$/;"	kind:member	line:170
+del_memo	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\handler.py	/^    def del_memo(date, start, end):$/;"	kind:member	line:164
+delete	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\utils.py	/^    def delete(self, name):$/;"	kind:member	line:216
+description	D:\smart-home\voice\PyBaiduYuyin-master\PyBaiduYuyin-master\setup.py	/^    description=PyBaiduYuyin.__doc__,$/;"	kind:variable	line:22
+description	D:\smart-home\voice\voicetools-master\voicetools-master\setup.py	/^      description="All-in-one voice tools library",$/;"	kind:variable	line:17
+dump_res	D:\smart-home\voice\1.py	/^def dump_res(buf):  $/;"	kind:function	line:19
+exceptions.py	D:\smart-home\voice\voicetools-master\voicetools-master\voicetools\exceptions.py	1;"	kind:file	line:1
+execute	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\handler.py	/^    def execute(self, func_name, result):$/;"	kind:member	line:72
+expire	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\utils.py	/^    def expire(self, name, ttl):$/;"	kind:member	line:219
+feedback	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\handler.py	/^    def feedback(self, content=None):$/;"	kind:member	line:77
+find_packages	D:\smart-home\voice\PyBaiduYuyin-master\PyBaiduYuyin-master\setup.py	/^from setuptools import setup, find_packages$/;"	kind:namespace	line:4
+find_packages	D:\smart-home\voice\voicetools-master\voicetools-master\setup.py	/^from setuptools import setup, find_packages$/;"	kind:namespace	line:3
+generate_response	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\utils.py	/^def generate_response():$/;"	kind:function	line:40
+get	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\utils.py	/^    def get(self, name):$/;"	kind:member	line:213
+get_audio_info	D:\smart-home\voice\voicetools-master\voicetools-master\voicetools\api.py	/^from .utils import get_mac_address, get_audio_info$/;"	kind:namespace	line:5
+get_audio_info	D:\smart-home\voice\voicetools-master\voicetools-master\voicetools\utils.py	/^def get_audio_info(file_):$/;"	kind:function	line:12
+get_baidu_token	D:\smart-home\voice\voicetools-master\voicetools-master\voicetools\api.py	/^    def get_baidu_token(api_key, secret_key):$/;"	kind:member	line:136
+get_mac_address	D:\smart-home\voice\voicetools-master\voicetools-master\voicetools\api.py	/^from .utils import get_mac_address, get_audio_info$/;"	kind:namespace	line:5
+get_mac_address	D:\smart-home\voice\voicetools-master\voicetools-master\voicetools\utils.py	/^def get_mac_address():$/;"	kind:function	line:7
+get_request	D:\smart-home\voice\voicetools-master\voicetools-master\voicetools\clients.py	/^    def get_request(self, url, params, headers=None, connect_timeout=None, request_timeout=None):$/;"	kind:member	line:34
+get_token	D:\smart-home\voice\1.py	/^def get_token():  $/;"	kind:function	line:9
+get_token	D:\smart-home\voice\2.py	/^    def get_token(self):$/;"	kind:member	line:243
+get_token	D:\smart-home\voice\PyBaiduYuyin-master\PyBaiduYuyin-master\PyBaiduYuyin\__init__.py	/^    def get_token(self):$/;"	kind:member	line:251
+get_token	D:\smart-home\voice\pybaidu.py	/^    def get_token(self):$/;"	kind:member	line:258
+get_token	D:\smart-home\voice\voicetools-master\voicetools-master\voicetools\clients.py	/^    def get_token(self, params):$/;"	kind:member	line:59
+handler.py	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\handler.py	1;"	kind:file	line:1
+heweather	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\utils.py	/^    def heweather(self):$/;"	kind:member	line:98
+include_package_data	D:\smart-home\voice\PyBaiduYuyin-master\PyBaiduYuyin-master\setup.py	/^    include_package_data=True,$/;"	kind:variable	line:17
+include_package_data	D:\smart-home\voice\voicetools-master\voicetools-master\setup.py	/^      include_package_data=True,$/;"	kind:variable	line:36
+init_logging_handler	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\assistant.py	/^from raspi_assistant.utils import init_logging_handler$/;"	kind:namespace	line:12
+init_logging_handler	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\test.py	/^from raspi_assistant.utils import init_logging_handler$/;"	kind:namespace	line:10
+init_logging_handler	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\utils.py	/^def init_logging_handler():$/;"	kind:function	line:30
+install_requires	D:\smart-home\voice\voicetools-master\voicetools-master\setup.py	/^      install_requires=[$/;"	kind:variable	line:38
+io	D:\smart-home\voice\2.py	/^import io, os, subprocess, wave$/;"	kind:namespace	line:10
+io	D:\smart-home\voice\PyBaiduYuyin-master\PyBaiduYuyin-master\PyBaiduYuyin\__init__.py	/^import io, os, subprocess, wave$/;"	kind:namespace	line:10
+io	D:\smart-home\voice\pybaidu.py	/^import io, os, subprocess, wave$/;"	kind:namespace	line:10
+jieba	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\handler.py	/^import jieba$/;"	kind:namespace	line:7
+json	D:\smart-home\voice\0.py	/^import json$/;"	kind:namespace	line:6
+json	D:\smart-home\voice\1.py	/^import json  $/;"	kind:namespace	line:6
+json	D:\smart-home\voice\2.py	/^import json$/;"	kind:namespace	line:12
+json	D:\smart-home\voice\PyBaiduYuyin-master\PyBaiduYuyin-master\PyBaiduYuyin\__init__.py	/^import json$/;"	kind:namespace	line:12
+json	D:\smart-home\voice\pybaidu.py	/^import json$/;"	kind:namespace	line:12
+json	D:\smart-home\voice\voicetools-master\voicetools-master\voicetools\clients.py	/^import json$/;"	kind:namespace	line:2
+keywords	D:\smart-home\voice\PyBaiduYuyin-master\PyBaiduYuyin-master\setup.py	/^    keywords="baidu voice service",$/;"	kind:variable	line:25
+keywords	D:\smart-home\voice\voicetools-master\voicetools-master\setup.py	/^      keywords='python baidu tts asr wolfram turing',$/;"	kind:variable	line:30
+license	D:\smart-home\voice\PyBaiduYuyin-master\PyBaiduYuyin-master\setup.py	/^    license=PyBaiduYuyin.__license__,$/;"	kind:variable	line:24
+license	D:\smart-home\voice\voicetools-master\voicetools-master\setup.py	/^      license='MIT',$/;"	kind:variable	line:34
+listen	D:\smart-home\voice\2.py	/^    def listen(self, source, timeout = None):$/;"	kind:member	line:342
+listen	D:\smart-home\voice\PyBaiduYuyin-master\PyBaiduYuyin-master\PyBaiduYuyin\__init__.py	/^    def listen(self, source, timeout = None):$/;"	kind:member	line:347
+listen	D:\smart-home\voice\pybaidu.py	/^    def listen(self, source, timeout = None):$/;"	kind:member	line:354
+listen_in_background	D:\smart-home\voice\2.py	/^    def listen_in_background(self, source, callback):$/;"	kind:member	line:443
+listen_in_background	D:\smart-home\voice\PyBaiduYuyin-master\PyBaiduYuyin-master\PyBaiduYuyin\__init__.py	/^    def listen_in_background(self, source, callback):$/;"	kind:member	line:448
+listen_in_background	D:\smart-home\voice\pybaidu.py	/^    def listen_in_background(self, source, callback):$/;"	kind:member	line:455
+logger	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\assistant.py	/^logger = init_logging_handler()$/;"	kind:variable	line:15
+logger	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\handler.py	/^logger = logging.getLogger()$/;"	kind:variable	line:15
+logging	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\handler.py	/^import logging$/;"	kind:namespace	line:2
+logging	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\settings.py	/^import logging$/;"	kind:namespace	line:2
+logging	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\utils.py	/^import logging$/;"	kind:namespace	line:2
+logging	D:\smart-home\voice\voicetools-master\voicetools-master\tests\test_GPIO.py	/^import logging$/;"	kind:namespace	line:4
+long_description	D:\smart-home\voice\PyBaiduYuyin-master\PyBaiduYuyin-master\setup.py	/^    long_description=open("README.rst").read(),$/;"	kind:variable	line:23
+long_description	D:\smart-home\voice\voicetools-master\voicetools-master\setup.py	/^      long_description='All-in-one voice tools library',$/;"	kind:variable	line:18
+loop	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\assistant.py	/^def loop():$/;"	kind:function	line:28
+m	D:\smart-home\voice\PyBaiduYuyin-master\PyBaiduYuyin-master\PyBaiduYuyin\__init__.py	/^    m = Microphone()$/;"	kind:variable	line:481
+mac_address	D:\smart-home\voice\0.py	/^mac_address=uuid.UUID(int=uuid.getnode()).hex[-12:]$/;"	kind:variable	line:15
+main	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\test.py	/^def main():$/;"	kind:function	line:15
+math	D:\smart-home\voice\2.py	/^import math, audioop, collections$/;"	kind:namespace	line:11
+math	D:\smart-home\voice\PyBaiduYuyin-master\PyBaiduYuyin-master\PyBaiduYuyin\__init__.py	/^import math, audioop, collections$/;"	kind:namespace	line:11
+math	D:\smart-home\voice\pybaidu.py	/^import math, audioop, collections$/;"	kind:namespace	line:11
+md5	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\utils.py	/^from hashlib import md5$/;"	kind:namespace	line:8
+memo_today	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\handler.py	/^    def memo_today(base_handler, result):$/;"	kind:member	line:124
+memo_tomo	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\handler.py	/^    def memo_tomo(base_handler, result):$/;"	kind:member	line:131
+mp3play	D:\smart-home\voice\pybaidu.py	/^import mp3play$/;"	kind:namespace	line:13
+name	D:\smart-home\voice\PyBaiduYuyin-master\PyBaiduYuyin-master\setup.py	/^    name="PyBaiduYuyin",$/;"	kind:variable	line:14
+os	D:\smart-home\voice\2.py	/^        import platform, os, stat$/;"	kind:namespace	line:192
+os	D:\smart-home\voice\2.py	/^        import platform, os, stat$/;"	kind:namespace	line:255
+os	D:\smart-home\voice\2.py	/^import io, os, subprocess, wave$/;"	kind:namespace	line:10
+os	D:\smart-home\voice\PyBaiduYuyin-master\PyBaiduYuyin-master\PyBaiduYuyin\__init__.py	/^        import platform, os, stat$/;"	kind:namespace	line:200
+os	D:\smart-home\voice\PyBaiduYuyin-master\PyBaiduYuyin-master\PyBaiduYuyin\__init__.py	/^        import platform, os, stat$/;"	kind:namespace	line:260
+os	D:\smart-home\voice\PyBaiduYuyin-master\PyBaiduYuyin-master\PyBaiduYuyin\__init__.py	/^import io, os, subprocess, wave$/;"	kind:namespace	line:10
+os	D:\smart-home\voice\pybaidu.py	/^        import platform, os, stat$/;"	kind:namespace	line:206
+os	D:\smart-home\voice\pybaidu.py	/^        import platform, os, stat$/;"	kind:namespace	line:267
+os	D:\smart-home\voice\pybaidu.py	/^import io, os, subprocess, wave$/;"	kind:namespace	line:10
+os	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\assistant.py	/^import os$/;"	kind:namespace	line:2
+os	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\test.py	/^import os$/;"	kind:namespace	line:2
+os	D:\smart-home\voice\voicetools-master\voicetools-master\tests\test_GPIO.py	/^import os$/;"	kind:namespace	line:2
+packages	D:\smart-home\voice\PyBaiduYuyin-master\PyBaiduYuyin-master\setup.py	/^    packages=["PyBaiduYuyin"],$/;"	kind:variable	line:16
+packages	D:\smart-home\voice\voicetools-master\voicetools-master\setup.py	/^      packages=find_packages(),$/;"	kind:variable	line:35
+platform	D:\smart-home\voice\2.py	/^        import platform, os, stat$/;"	kind:namespace	line:192
+platform	D:\smart-home\voice\2.py	/^        import platform, os, stat$/;"	kind:namespace	line:255
+platform	D:\smart-home\voice\PyBaiduYuyin-master\PyBaiduYuyin-master\PyBaiduYuyin\__init__.py	/^        import platform, os, stat$/;"	kind:namespace	line:200
+platform	D:\smart-home\voice\PyBaiduYuyin-master\PyBaiduYuyin-master\PyBaiduYuyin\__init__.py	/^        import platform, os, stat$/;"	kind:namespace	line:260
+platform	D:\smart-home\voice\pybaidu.py	/^        import platform, os, stat$/;"	kind:namespace	line:206
+platform	D:\smart-home\voice\pybaidu.py	/^        import platform, os, stat$/;"	kind:namespace	line:267
+play	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\utils.py	/^    def play(self, file_):$/;"	kind:member	line:170
+play_memo	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\handler.py	/^    def play_memo(date, base_handler):$/;"	kind:member	line:138
+play_memo_today	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\handler.py	/^    def play_memo_today(base_handler, result):$/;"	kind:member	line:157
+play_memo_tomo	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\handler.py	/^    def play_memo_tomo(base_handler, result):$/;"	kind:member	line:150
+play_mp3	D:\smart-home\voice\2.py	/^    def play_mp3(self, mp3_data):$/;"	kind:member	line:191
+play_mp3	D:\smart-home\voice\PyBaiduYuyin-master\PyBaiduYuyin-master\PyBaiduYuyin\__init__.py	/^    def play_mp3(self, mp3_data):$/;"	kind:member	line:199
+play_mp3	D:\smart-home\voice\pybaidu.py	/^    def play_mp3(self, mp3_data):$/;"	kind:member	line:205
+post_request	D:\smart-home\voice\voicetools-master\voicetools-master\voicetools\clients.py	/^    def post_request(self, url, params, headers=None, connect_timeout=None, request_timeout=None):$/;"	kind:member	line:16
+process	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\handler.py	/^    def process(self, results):$/;"	kind:member	line:65
+pyaudio	D:\smart-home\voice\2.py	/^    import pyaudio$/;"	kind:namespace	line:46
+pyaudio	D:\smart-home\voice\PyBaiduYuyin-master\PyBaiduYuyin-master\PyBaiduYuyin\__init__.py	/^    import pyaudio$/;"	kind:namespace	line:45
+pyaudio	D:\smart-home\voice\pybaidu.py	/^    import pyaudio$/;"	kind:namespace	line:47
+pyaudio	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\test.py	/^import pyaudio$/;"	kind:namespace	line:5
+pyaudio	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\utils.py	/^import pyaudio$/;"	kind:namespace	line:13
+pybaidu.py	D:\smart-home\voice\pybaidu.py	1;"	kind:file	line:1
+pycurl	D:\smart-home\voice\1.py	/^import urllib, urllib.request, pycurl  $/;"	kind:namespace	line:4
+query_turing	D:\smart-home\voice\voicetools-master\voicetools-master\voicetools\clients.py	/^    def query_turing(self, params):$/;"	kind:member	line:118
+query_weather	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\handler.py	/^    def query_weather(today_or_tomo):$/;"	kind:member	line:202
+r	D:\smart-home\voice\2.py	/^    r = Recognizer()$/;"	kind:variable	line:475
+r	D:\smart-home\voice\PyBaiduYuyin-master\PyBaiduYuyin-master\PyBaiduYuyin\__init__.py	/^    r = Recognizer()$/;"	kind:variable	line:480
+r	D:\smart-home\voice\pybaidu.py	/^    r = Recognizer()$/;"	kind:variable	line:487
+random	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\utils.py	/^import random$/;"	kind:namespace	line:5
+re	D:\smart-home\voice\voicetools-master\voicetools-master\setup.py	/^import re$/;"	kind:namespace	line:2
+read	D:\smart-home\voice\2.py	/^        def read(self, size = -1):$/;"	kind:member	line:122
+read	D:\smart-home\voice\PyBaiduYuyin-master\PyBaiduYuyin-master\PyBaiduYuyin\__init__.py	/^        def read(self, size = -1):$/;"	kind:member	line:121
+read	D:\smart-home\voice\pybaidu.py	/^        def read(self, size = -1):$/;"	kind:member	line:123
+receive	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\handler.py	/^    def receive(self, sec=4):$/;"	kind:member	line:57
+recognize	D:\smart-home\voice\2.py	/^    def recognize(self, audio_data):$/;"	kind:member	line:405
+recognize	D:\smart-home\voice\PyBaiduYuyin-master\PyBaiduYuyin-master\PyBaiduYuyin\__init__.py	/^    def recognize(self, audio_data):$/;"	kind:member	line:410
+recognize	D:\smart-home\voice\pybaidu.py	/^    def recognize(self, audio_data):$/;"	kind:member	line:417
+record	D:\smart-home\voice\2.py	/^    def record(self, source, duration = None):$/;"	kind:member	line:291
+record	D:\smart-home\voice\PyBaiduYuyin-master\PyBaiduYuyin-master\PyBaiduYuyin\__init__.py	/^    def record(self, source, duration = None):$/;"	kind:member	line:296
+record	D:\smart-home\voice\pybaidu.py	/^    def record(self, source, duration = None):$/;"	kind:member	line:303
+record	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\utils.py	/^    def record(self, record_seconds, file_):$/;"	kind:member	line:119
+redis	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\utils.py	/^import redis$/;"	kind:namespace	line:12
+request	D:\smart-home\voice\0.py	/^import urllib.request$/;"	kind:namespace	line:7
+request	D:\smart-home\voice\1.py	/^import urllib, urllib.request, pycurl  $/;"	kind:namespace	line:4
+request	D:\smart-home\voice\2.py	/^import urllib.request$/;"	kind:namespace	line:13
+request_handler	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\utils.py	/^    def request_handler(self, url, params):$/;"	kind:member	line:83
+requests	D:\smart-home\voice\voicetools-master\voicetools-master\voicetools\clients.py	/^import requests$/;"	kind:namespace	line:3
+samples_to_flac	D:\smart-home\voice\2.py	/^    def samples_to_flac(self, source, frame_data):$/;"	kind:member	line:253
+samples_to_flac	D:\smart-home\voice\PyBaiduYuyin-master\PyBaiduYuyin-master\PyBaiduYuyin\__init__.py	/^    def samples_to_flac(self, source, frame_data):$/;"	kind:member	line:258
+samples_to_flac	D:\smart-home\voice\pybaidu.py	/^    def samples_to_flac(self, source, frame_data):$/;"	kind:member	line:265
+say	D:\smart-home\voice\2.py	/^    def say(self, text, spd=5, pit=5, vol=5, per=0):$/;"	kind:member	line:157
+say	D:\smart-home\voice\PyBaiduYuyin-master\PyBaiduYuyin-master\PyBaiduYuyin\__init__.py	/^    def say(self, text, spd=5, pit=5, vol=5, per=0):$/;"	kind:member	line:156
+say	D:\smart-home\voice\pybaidu.py	/^    def say(self, text, spd=5, pit=5, vol=5, per=0):$/;"	kind:member	line:158
+set	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\utils.py	/^    def set(self, name, value, ttl=None):$/;"	kind:member	line:207
+set_GPIO	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\assistant.py	/^def set_GPIO():$/;"	kind:function	line:18
+set_voice_sensor	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\assistant.py	/^def set_voice_sensor():$/;"	kind:function	line:23
+settings.py	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\settings.py	1;"	kind:file	line:1
+setup	D:\smart-home\voice\PyBaiduYuyin-master\PyBaiduYuyin-master\setup.py	/^from setuptools import setup, find_packages$/;"	kind:namespace	line:4
+setup	D:\smart-home\voice\voicetools-master\voicetools-master\setup.py	/^from setuptools import setup, find_packages$/;"	kind:namespace	line:3
+setup.py	D:\smart-home\voice\PyBaiduYuyin-master\PyBaiduYuyin-master\setup.py	1;"	kind:file	line:1
+setup.py	D:\smart-home\voice\voicetools-master\voicetools-master\setup.py	1;"	kind:file	line:1
+shutil_which	D:\smart-home\voice\2.py	/^def shutil_which(pgm):$/;"	kind:function	line:463
+shutil_which	D:\smart-home\voice\PyBaiduYuyin-master\PyBaiduYuyin-master\PyBaiduYuyin\__init__.py	/^def shutil_which(pgm):$/;"	kind:function	line:468
+shutil_which	D:\smart-home\voice\pybaidu.py	/^def shutil_which(pgm):$/;"	kind:function	line:475
+stat	D:\smart-home\voice\2.py	/^        import platform, os, stat$/;"	kind:namespace	line:192
+stat	D:\smart-home\voice\2.py	/^        import platform, os, stat$/;"	kind:namespace	line:255
+stat	D:\smart-home\voice\PyBaiduYuyin-master\PyBaiduYuyin-master\PyBaiduYuyin\__init__.py	/^        import platform, os, stat$/;"	kind:namespace	line:200
+stat	D:\smart-home\voice\PyBaiduYuyin-master\PyBaiduYuyin-master\PyBaiduYuyin\__init__.py	/^        import platform, os, stat$/;"	kind:namespace	line:260
+stat	D:\smart-home\voice\pybaidu.py	/^        import platform, os, stat$/;"	kind:namespace	line:206
+stat	D:\smart-home\voice\pybaidu.py	/^        import platform, os, stat$/;"	kind:namespace	line:267
+string	D:\smart-home\voice\2.py	/^import string$/;"	kind:namespace	line:14
+subprocess	D:\smart-home\voice\2.py	/^import io, os, subprocess, wave$/;"	kind:namespace	line:10
+subprocess	D:\smart-home\voice\PyBaiduYuyin-master\PyBaiduYuyin-master\PyBaiduYuyin\__init__.py	/^import io, os, subprocess, wave$/;"	kind:namespace	line:10
+subprocess	D:\smart-home\voice\pybaidu.py	/^import io, os, subprocess, wave$/;"	kind:namespace	line:10
+sys	D:\smart-home\voice\0.py	/^import sys$/;"	kind:namespace	line:8
+sys	D:\smart-home\voice\PyBaiduYuyin-master\PyBaiduYuyin-master\setup.py	/^import sys$/;"	kind:namespace	line:6
+sys	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\assistant.py	/^import sys$/;"	kind:namespace	line:3
+sys	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\test.py	/^import sys$/;"	kind:namespace	line:3
+sys	D:\smart-home\voice\voicetools-master\voicetools-master\tests\test_GPIO.py	/^import sys$/;"	kind:namespace	line:3
+t	D:\smart-home\voice\2.py	/^    t = TTS()$/;"	kind:variable	line:474
+t	D:\smart-home\voice\PyBaiduYuyin-master\PyBaiduYuyin-master\PyBaiduYuyin\__init__.py	/^    t = TTS()$/;"	kind:variable	line:479
+t	D:\smart-home\voice\pybaidu.py	/^    t = TTS()$/;"	kind:variable	line:486
+test.py	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\test.py	1;"	kind:file	line:1
+test_GPIO.py	D:\smart-home\voice\voicetools-master\voicetools-master\tests\test_GPIO.py	1;"	kind:file	line:1
+text	D:\smart-home\voice\2.py	/^            text = r.recognize(audio)$/;"	kind:variable	line:487
+text	D:\smart-home\voice\PyBaiduYuyin-master\PyBaiduYuyin-master\PyBaiduYuyin\__init__.py	/^            text = r.recognize(audio)$/;"	kind:variable	line:491
+threaded_listen	D:\smart-home\voice\2.py	/^        def threaded_listen():$/;"	kind:function	line:455
+threaded_listen	D:\smart-home\voice\PyBaiduYuyin-master\PyBaiduYuyin-master\PyBaiduYuyin\__init__.py	/^        def threaded_listen():$/;"	kind:function	line:460
+threaded_listen	D:\smart-home\voice\pybaidu.py	/^        def threaded_listen():$/;"	kind:function	line:467
+threading	D:\smart-home\voice\2.py	/^        import threading$/;"	kind:namespace	line:454
+threading	D:\smart-home\voice\PyBaiduYuyin-master\PyBaiduYuyin-master\PyBaiduYuyin\__init__.py	/^        import threading$/;"	kind:namespace	line:459
+threading	D:\smart-home\voice\pybaidu.py	/^        import threading$/;"	kind:namespace	line:466
+time	D:\smart-home\switch wifi\timeswitch.py	/^import time$/;"	kind:namespace	line:2
+time	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\assistant.py	/^import time$/;"	kind:namespace	line:4
+time	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\utils.py	/^import time$/;"	kind:namespace	line:4
+timestamp	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\utils.py	/^def timestamp():$/;"	kind:function	line:52
+timeswitch.py	D:\smart-home\switch wifi\timeswitch.py	1;"	kind:file	line:1
+token	D:\smart-home\voice\1.py	/^    token = get_token()  $/;"	kind:variable	line:50
+token_url	D:\smart-home\voice\voicetools-master\voicetools-master\voicetools\constants.py	/^    token_url = 'https:\/\/openapi.baidu.com\/oauth\/2.0\/token'$/;"	kind:variable	line:6
+traceback	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\handler.py	/^import traceback$/;"	kind:namespace	line:3
+tts	D:\smart-home\voice\voicetools-master\voicetools-master\voicetools\api.py	/^    def tts(self, tex, lan='zh', ctp=1,$/;"	kind:member	line:102
+tts	D:\smart-home\voice\voicetools-master\voicetools-master\voicetools\clients.py	/^    def tts(self, params):$/;"	kind:member	line:70
+tts_err_no	D:\smart-home\voice\voicetools-master\voicetools-master\voicetools\constants.py	/^    tts_err_no = {$/;"	kind:variable	line:19
+tts_url	D:\smart-home\voice\voicetools-master\voicetools-master\voicetools\constants.py	/^    tts_url = 'http:\/\/tsn.baidu.com\/text2audio'$/;"	kind:variable	line:7
+turing_url	D:\smart-home\voice\voicetools-master\voicetools-master\voicetools\constants.py	/^    turing_url = 'http:\/\/www.tuling123.com\/openapi\/api'$/;"	kind:variable	line:14
+turingclient	D:\smart-home\voice\voicetools-master\voicetools-master\voicetools\api.py	/^from .clients import turingclient, baiduclient$/;"	kind:namespace	line:4
+turingclient	D:\smart-home\voice\voicetools-master\voicetools-master\voicetools\clients.py	/^turingclient = TuringClient()$/;"	kind:variable	line:125
+unique_id	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\utils.py	/^def unique_id(func, args, kwargs):$/;"	kind:function	line:48
+url	D:\smart-home\voice\PyBaiduYuyin-master\PyBaiduYuyin-master\setup.py	/^    url="https:\/\/github.com\/DelightRun\/PyBaiduYuyin",$/;"	kind:variable	line:26
+url	D:\smart-home\voice\voicetools-master\voicetools-master\setup.py	/^      url='https:\/\/github.com\/namco1992\/voicetools',$/;"	kind:variable	line:33
+urlencode	D:\smart-home\voice\2.py	/^from urllib.parse import urlencode$/;"	kind:namespace	line:18
+urlencode	D:\smart-home\voice\PyBaiduYuyin-master\PyBaiduYuyin-master\PyBaiduYuyin\__init__.py	/^    from urllib import urlencode$/;"	kind:namespace	line:15
+urlencode	D:\smart-home\voice\PyBaiduYuyin-master\PyBaiduYuyin-master\PyBaiduYuyin\__init__.py	/^    from urllib.parse import urlencode$/;"	kind:namespace	line:20
+urlencode	D:\smart-home\voice\pybaidu.py	/^    from urllib import urlencode$/;"	kind:namespace	line:16
+urlencode	D:\smart-home\voice\pybaidu.py	/^    from urllib.parse import urlencode$/;"	kind:namespace	line:21
+urllib	D:\smart-home\voice\0.py	/^import urllib.request$/;"	kind:namespace	line:7
+urllib	D:\smart-home\voice\1.py	/^import urllib, urllib.request, pycurl  $/;"	kind:namespace	line:4
+urllib	D:\smart-home\voice\2.py	/^import urllib.request$/;"	kind:namespace	line:13
+urllib	D:\smart-home\voice\voicetools-master\voicetools-master\voicetools\utils.py	/^import urllib$/;"	kind:namespace	line:4
+urlopen	D:\smart-home\voice\PyBaiduYuyin-master\PyBaiduYuyin-master\PyBaiduYuyin\__init__.py	/^    from urllib.request import Request, urlopen$/;"	kind:namespace	line:18
+urlopen	D:\smart-home\voice\PyBaiduYuyin-master\PyBaiduYuyin-master\PyBaiduYuyin\__init__.py	/^    from urllib2 import Request, urlopen, URLError$/;"	kind:namespace	line:16
+urlopen	D:\smart-home\voice\pybaidu.py	/^    from urllib.request import Request, urlopen$/;"	kind:namespace	line:19
+urlopen	D:\smart-home\voice\pybaidu.py	/^    from urllib2 import Request, urlopen, URLError$/;"	kind:namespace	line:17
+use_cloud	D:\smart-home\voice\1.py	/^def use_cloud(token):  $/;"	kind:function	line:24
+utils	D:\smart-home\voice\voicetools-master\voicetools-master\voicetools\__init__.py	/^from . import utils$/;"	kind:namespace	line:15
+utils.py	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\utils.py	1;"	kind:file	line:1
+utils.py	D:\smart-home\voice\voicetools-master\voicetools-master\voicetools\utils.py	1;"	kind:file	line:1
+uuid	D:\smart-home\voice\0.py	/^import uuid$/;"	kind:namespace	line:4
+uuid	D:\smart-home\voice\voicetools-master\voicetools-master\voicetools\utils.py	/^import uuid$/;"	kind:namespace	line:2
+version	D:\smart-home\voice\PyBaiduYuyin-master\PyBaiduYuyin-master\setup.py	/^    version=PyBaiduYuyin.__version__,$/;"	kind:variable	line:15
+version	D:\smart-home\voice\voicetools-master\voicetools-master\setup.py	/^      version=VERSION,$/;"	kind:variable	line:16
+wave	D:\smart-home\voice\1.py	/^import wave  $/;"	kind:namespace	line:3
+wave	D:\smart-home\voice\2.py	/^import io, os, subprocess, wave$/;"	kind:namespace	line:10
+wave	D:\smart-home\voice\PyBaiduYuyin-master\PyBaiduYuyin-master\PyBaiduYuyin\__init__.py	/^import io, os, subprocess, wave$/;"	kind:namespace	line:10
+wave	D:\smart-home\voice\pybaidu.py	/^import io, os, subprocess, wave$/;"	kind:namespace	line:10
+wave	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\test.py	/^import wave$/;"	kind:namespace	line:4
+wave	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\utils.py	/^import wave$/;"	kind:namespace	line:14
+wave	D:\smart-home\voice\voicetools-master\voicetools-master\voicetools\utils.py	/^import wave$/;"	kind:namespace	line:3
+weather_today	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\handler.py	/^    def weather_today(base_handler, result):$/;"	kind:member	line:198
+weather_tomo	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\handler.py	/^    def weather_tomo(base_handler, result):$/;"	kind:member	line:194
+wolfram	D:\smart-home\voice\voicetools-master\voicetools-master\tests\test_GPIO.py	/^wolfram = Wolfram('QW9W43-2JJ9KK54KV')$/;"	kind:variable	line:24
+wolframalpha	D:\smart-home\voice\voicetools-master\voicetools-master\voicetools\api.py	/^import wolframalpha$/;"	kind:namespace	line:2
+worker	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\handler.py	/^    def worker(self):$/;"	kind:member	line:90
+wraps	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\utils.py	/^from functools import wraps$/;"	kind:namespace	line:7
+zdel	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\utils.py	/^    def zdel(self, name, start, end):$/;"	kind:member	line:241
+zget	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\utils.py	/^    def zget(self, name, start, end, is_audio=True):$/;"	kind:member	line:234
+zip_safe	D:\smart-home\voice\voicetools-master\voicetools-master\setup.py	/^      zip_safe=True,$/;"	kind:variable	line:37
+zset	D:\smart-home\voice\voicetools-master\voicetools-master\examples\raspi_assistant\utils.py	/^    def zset(self, name, key, score, ttl=None, is_audio=True):$/;"	kind:member	line:222
