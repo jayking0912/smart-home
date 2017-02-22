@@ -12,6 +12,8 @@ int noteDurations[] = {
 
 void setup() {
   // iterate over the notes of the melody:
+  while(1)
+  {
   for (int thisNote = 0; thisNote < 8; thisNote++) {
 
     // to calculate the note duration, take one second
@@ -26,6 +28,7 @@ void setup() {
     delay(pauseBetweenNotes);
     // stop the tone playing:
     noTone(8);
+  }
   }
 }
 
